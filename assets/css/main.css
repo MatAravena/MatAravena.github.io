@@ -470,9 +470,9 @@ section,
 --------------------------------------------------------------*/
 .section-title {
   text-align: center;
-  padding-bottom: 60px;
-  position: relative;
-}
+  padding-bottom: 40px;
+  position: relative; 
+} 
 
 .section-title h2 {
   font-size: 32px;
